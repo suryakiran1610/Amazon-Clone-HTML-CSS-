@@ -26,7 +26,7 @@
 }
 
 .navlogo{
-    background-image:url("amazonlogo.jpg");
+    background-image:url("./images/amazonlogo.jpg");
     background-size: cover;
     height:60px;
     width:100%;
@@ -109,7 +109,7 @@
     align-items: center;
 }
 .amflag{
-    background-image:url("flag.jpg");
+    background-image:url("./images/flag.jpg");
     width: 25px;
     height:16px;
     display: flex;
@@ -173,7 +173,7 @@ span{
 
 .main{
     height:300px;
-    background-image: url("main-image.jpg");
+    background-image: url("./images/main-image.jpg");
     display:flex;
     background-size: cover;
     justify-content: center;
@@ -287,7 +287,7 @@ ul a {
     margin-right:60px;
 }
 .amlogo{
-    background-image:url("logo2.png");
+    background-image:url("./images/logo2.png");
     background-size:cover;
     height:60px;
 }
@@ -323,7 +323,7 @@ ul a {
     margin-left: 1rem;
 }
 .uslogo{
-    background-image:url("flag.jpg");
+    background-image:url("./images/flag.jpg");
     width: 25px;
     height:16px;
     display: flex;
